@@ -103,10 +103,6 @@
             right: 290px;
             color: hsl(249, 10%, 26%);
         }
-        
-        span {
-            display: none;
-        }
     }
     
     @media screen and (max-width:375px) {
